@@ -34,8 +34,6 @@ The matrix below provides a deeper look at the model's performance beyond a flat
 Below are the terminal logs confirming the optimal K, the final accuracy score, and the explanation of the matrix grid:
 
 ![Optimal K and Accuracy](Screenshots/2.png)
-<br>
-![Confusion Matrix Logs](Screenshots/3.png)
 
 ---
 
@@ -50,4 +48,4 @@ The scatter plot below maps the complex decision regions. The colored background
 #### Boundary Logic & Terminal Output
 Below is the terminal explanation of how the spatial clustering dictates these classification boundaries:
 
-![Decision Boundary Logs](Screenshots/4.png)
+![Decision Boundary Logs](Screenshots/3.png)
